@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/*.crx",
+      "source": "/(.*).crx",
       "headers": [
         {
           "key": "Content-Type",
