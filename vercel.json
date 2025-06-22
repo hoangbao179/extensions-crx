@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/*.crx",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/x-chrome-extension"
+        }
+      ]
+    }
+  ]
+}
